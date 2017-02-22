@@ -1,2 +1,3 @@
 # hello-world
 My home for ideas, resources, shares and discussions.
+Hello moto... I'm Redm0squit0 and I have an interest in networking and computers in general. I enjoy white hat hacking or occasionally even  some black hat, but in order to do these things one must actually know what they are doing. So in all honesty, since we are being honest here, I am learning how to penetrate networks for learning purposes as this is a skill that not very many folks can do or if they can, do it succesfully. I am new to git hub and this is my first commit. More to follow.......
